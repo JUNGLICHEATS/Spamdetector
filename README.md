@@ -13,7 +13,7 @@
 
 **A modern web application for detecting spam messages using AI and rule-based techniques.**
 
-[✨ Features](#-features) • [🚀 Demo](#-demo) • [📦 Installation](#-installation) • [🔌 API](#-api-documentation) • [💻 Technologies](#-technology-stack)
+[✨ Features](#-features) • [🚀 Demo](#-demo) • [📦 Installation](#-installation) • [💻 Technologies](#-technology-stack)
 
 <a href="#-installation">
   <img src="https://img.shields.io/badge/Get%20Started-%E2%86%92-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" alt="Get Started">
@@ -129,11 +129,6 @@ graph TD
 
 <div align="center">
   <img src="demo.png" alt="SpamDetector Demo" width="80%">
-  
-  <details>
-    <summary><b>🎬 View Demo GIF</b></summary>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM2MzM5MWZkZDg2ZDI1OTM0ZjM5NzFkZTQ3ZGNjZjA1YTFkZjg2ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l0HlTy9v1YVyQsJ4A/giphy.gif" alt="Demo GIF">
-  </details>
 </div>
 
 <p align="center">
@@ -200,78 +195,9 @@ graph TD
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line" width="100%">
 </p>
 
-## 🔌 API Documentation
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNhNzUwZjk0ZmM5MWY5ZWZiMTQ5OGIwODg1ZWRjZWZhNGI3ZmFkNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l0HlHFRbmaZtBRhXG/giphy.gif" width="300">
-</div>
-
-### Endpoints
-
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| `GET` | `/` | API health check |
-| `GET` | `/health` | Detailed health status |
-| `POST` | `/api/classify` | Classify a message as spam or ham |
-
-<details>
-<summary>📝 Example API Request</summary>
-
-```json
-POST /api/classify
-{
-  "message": "Your message to analyze",
-  "options": {
-    "include_details": true
-  }
-}
-```
-</details>
-
-<details>
-<summary>📝 Example API Response</summary>
-
-```json
-{
-  "classification": "ham",
-  "confidence": 0.92,
-  "processing_time": 45,
-  "details": {
-    "rule_details": [...],
-    "ml_confidence": 0.94,
-    "triggered_rules": []
-  }
-}
-```
-</details>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line" width="100%">
-</p>
-
-## 📊 Performance
-
-<div align="center">
-
-<img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Accuracy','Speed','Precision','Recall','F1 Score'],datasets:[{label:'SpamDetector Performance',data:[97.8,95,96.5,98,97.2],backgroundColor:'rgba(54,162,235,0.2)',borderColor:'rgb(54,162,235)',pointBackgroundColor:'rgb(54,162,235)'}]}}" width="400">
-
-| Metric | Value |
-|--------|-------|
-| Accuracy | 97.8% |
-| False Positive Rate | <2% |
-| Processing Time | <50ms |
-
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line" width="100%">
-</p>
-
 ## 📄 License
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDlmMDFiYzFhMzE2NWRkMDM4ZWVkMmJmOWY4NTU1YzZhZWMzYWI1ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ornjXbo3cjqh2BIyY/giphy.gif" width="200">
-</div>
+
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -285,9 +211,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inter font family
 - [Shields.io](https://shields.io/) for badges
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/spamdetector/count.svg" alt="Visitor Count">
-</div>
 
 <div align="center">
   <a href="#">
