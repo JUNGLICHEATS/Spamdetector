@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0366d6&center=true&vCenter=true&width=600&lines=AI-Powered+Spam+Detection;Real-time+Classification;Machine+Learning+%2B+Rules;99%25+Accuracy" alt="Typing SVG" />
+
 ![SpamDetector Logo](https://img.shields.io/badge/SpamDetector-AI%20Powered-blue?style=for-the-badge&logo=shield&logoColor=white)
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
@@ -11,18 +13,33 @@
 
 **A modern web application for detecting spam messages using AI and rule-based techniques.**
 
-[Features](#features) • [Demo](#demo) • [Installation](#installation) • [API](#api) • [Technologies](#technology-stack)
+[✨ Features](#-features) • [🚀 Demo](#-demo) • [📦 Installation](#-installation) • [🔌 API](#-api-documentation) • [💻 Technologies](#-technology-stack)
+
+<a href="#-installation">
+  <img src="https://img.shields.io/badge/Get%20Started-%E2%86%92-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" alt="Get Started">
+</a>
 
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line" width="100%">
+</p>
 
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> **Real-time spam detection with confidence scores and detailed analysis**
 
 ## ✨ Features
 
+<div align="center">
+  <img src="https://github.com/SamirPaulb/assets/blob/main/ezgif.com-gif-maker.gif" alt="Features Animation" width="80%">
+</div>
+
 <table>
   <tr>
     <td width="50%">
-      <h3>🤖 AI-Powered Analysis</h3>
+      <h3 align="center">🤖 AI-Powered Analysis</h3>
+      <p align="center">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmY2YmNiOWJiOWM0MWY5OWFhNDJlYjY2ZTg3YjM0ZTY0YjBhMGNmMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100" height="100">
+      </p>
       <ul>
         <li>Machine learning classification</li>
         <li>Confidence scoring</li>
@@ -30,7 +47,10 @@
       </ul>
     </td>
     <td width="50%">
-      <h3>📏 Rule-Based Detection</h3>
+      <h3 align="center">📏 Rule-Based Detection</h3>
+      <p align="center">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk0YzFhNmI2MmFkNzY0ZmFhMDJhMjFkYTM1YTJkYjgzYzZjNDEzMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l46Cy1rHbQ92uuLXa/giphy.gif" width="100" height="100">
+      </p>
       <ul>
         <li>Pattern recognition</li>
         <li>Detailed explanations</li>
@@ -40,7 +60,10 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>🖥️ Interactive Interface</h3>
+      <h3 align="center">🖥️ Interactive Interface</h3>
+      <p align="center">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRiMzYxMDM3NGU1ZTIzZmU1MjQ5NjI2NTRhOTIzMDg1ZGE0YmNlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" height="100">
+      </p>
       <ul>
         <li>Real-time demo page</li>
         <li>Responsive design</li>
@@ -48,7 +71,10 @@
       </ul>
     </td>
     <td width="50%">
-      <h3>🔒 Spam Protection</h3>
+      <h3 align="center">🔒 Spam Protection</h3>
+      <p align="center">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjk3YjFjYTQzNTRjZDk1NTZkNzA4OTY0YzM0MzA4YjBkMGY1YTZhNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100" height="100">
+      </p>
       <ul>
         <li>Contact form protection</li>
         <li>High accuracy detection</li>
@@ -58,7 +84,19 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line" width="100%">
+</p>
+
 ## 🏗️ Project Structure
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+</div>
 
 ```mermaid
 graph TD
@@ -76,13 +114,31 @@ graph TD
     C --> C2[models/]
     C --> C3[requirements.txt]
     A --> D[deploy.py]
+
+    style A fill:#ff9900,stroke:#333,stroke-width:2px
+    style B fill:#42b883,stroke:#333,stroke-width:2px
+    style C fill:#3498db,stroke:#333,stroke-width:2px
+    style D fill:#e74c3c,stroke:#333,stroke-width:2px
 ```
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line" width="100%">
+</p>
 
 ## 🚀 Demo
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=SpamDetector+Demo" alt="SpamDetector Demo" width="80%">
+  <img src="demo.png" alt="SpamDetector Demo" width="80%">
+  
+  <details>
+    <summary><b>🎬 View Demo GIF</b></summary>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM2MzM5MWZkZDg2ZDI1OTM0ZjM5NzFkZTQ3ZGNjZjA1YTFkZjg2ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l0HlTy9v1YVyQsJ4A/giphy.gif" alt="Demo GIF">
+  </details>
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line" width="100%">
+</p>
 
 ## 💻 Technology Stack
 
@@ -96,16 +152,24 @@ graph TD
 
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line" width="100%">
+</p>
+
 ## 📦 Installation
 
 ### Prerequisites
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,vscode,git" />
+</div>
 
 - Python 3.8+
 - pip (Python package manager)
 
 ### Quick Start
 
-<details>
+<details open>
 <summary>📋 Step-by-step instructions</summary>
 
 1. **Clone the repository:**
@@ -132,7 +196,15 @@ graph TD
    ```
 </details>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line" width="100%">
+</p>
+
 ## 🔌 API Documentation
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNhNzUwZjk0ZmM5MWY5ZWZiMTQ5OGIwODg1ZWRjZWZhNGI3ZmFkNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l0HlHFRbmaZtBRhXG/giphy.gif" width="300">
+</div>
 
 ### Endpoints
 
@@ -173,9 +245,15 @@ POST /api/classify
 ```
 </details>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line" width="100%">
+</p>
+
 ## 📊 Performance
 
 <div align="center">
+
+<img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Accuracy','Speed','Precision','Recall','F1 Score'],datasets:[{label:'SpamDetector Performance',data:[97.8,95,96.5,98,97.2],backgroundColor:'rgba(54,162,235,0.2)',borderColor:'rgb(54,162,235)',pointBackgroundColor:'rgb(54,162,235)'}]}}" width="400">
 
 | Metric | Value |
 |--------|-------|
@@ -185,12 +263,34 @@ POST /api/classify
 
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line" width="100%">
+</p>
+
 ## 📄 License
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDlmMDFiYzFhMzE2NWRkMDM4ZWVkMmJmOWY4NTU1YzZhZWMzYWI1ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ornjXbo3cjqh2BIyY/giphy.gif" width="200">
+</div>
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line" width="100%">
+</p>
 
 ## 🙏 Acknowledgments
 
 - Font Awesome for icons
 - Inter font family
-- [Shields.io](https://shields.io/) for badges 
+- [Shields.io](https://shields.io/) for badges
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/spamdetector/count.svg" alt="Visitor Count">
+</div>
+
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/⬆️-Back_to_Top-blue" alt="Back to Top">
+  </a>
+</div> 
