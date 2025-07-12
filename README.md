@@ -195,21 +195,7 @@ graph TD
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line" width="100%">
 </p>
 
-## 📄 License
 
-
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line" width="100%">
-</p>
-
-## 🙏 Acknowledgments
-
-- Font Awesome for icons
-- Inter font family
-- [Shields.io](https://shields.io/) for badges
 
 
 <div align="center">
