@@ -73,7 +73,7 @@
     <td width="50%">
       <h3 align="center">🔒 Spam Protection</h3>
       <p align="center">
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjk3YjFjYTQzNTRjZDk1NTZkNzA4OTY0YzM0MzA4YjBkMGY1YTZhNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100" height="100">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQ0MzBiNWNkYzU3YzI0MTJlMGJmNzg5ZTJkMzYwMDJjYTcwYTRiZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o6Zt6VH2yFZUQpW8w/giphy.gif" width="100" height="100">
       </p>
       <ul>
         <li>Contact form protection</li>
