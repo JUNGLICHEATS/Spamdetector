@@ -12,7 +12,10 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg?style=flat-square)](LICENSE)
 
-**A modern web application for detecting spam messages using AI and rule-based techniques.**
+**A modern web application for detecting spam messages using AI and rule-based techniques.**  
+**> 🧑‍💻 This project was collaboratively built by a team of 3 students as part of an AI/ML learning initiative.**
+
+
 
 [✨ Features](#-features) • [🚀 Demo](#-demo) • [📦 Installation](#-installation) • [💻 Technologies](#-technology-stack)
 
@@ -170,7 +173,7 @@ graph TD
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/SpamDetector.git
+   git clone https://github.com/JUNGLICHEATS/Spamdetector.git
    cd SpamDetector
    ```
 
@@ -196,6 +199,20 @@ graph TD
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line" width="100%">
 </p>
 
+<div align="center">:
+---
+
+## 👥 Contributors
+
+This project is developed by:
+
+| Name          | GitHub Username                            | Role in Project                |
+|---------------|---------------------------------------------|-------------------------------|
+| Rounak Jha    | [@devron04](https://github.com/devron04)   | ML Model, Frontend UI          |
+| Jitendra Gupta| [@JUNGLICHEATS](https://github.com/JUNGLICHEATS) | Backend APIs, Deployment |
+| Shivesh Shukla| [@Shivesh-1999](https://github.com/Shivesh-1999) | Rule System, UI Debugging|
+
+</div>
 
 
 
@@ -204,4 +221,5 @@ graph TD
     <img src="https://img.shields.io/badge/⬆️-Back_to_Top-blue" alt="Back to Top">
   </a>
 </div> 
+
 
