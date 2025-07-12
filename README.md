@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🛡️ SpamDetector
 
 <div align="center">
@@ -204,7 +204,4 @@ graph TD
     <img src="https://img.shields.io/badge/⬆️-Back_to_Top-blue" alt="Back to Top">
   </a>
 </div> 
-=======
-# Spamdetector
-spam detector for contact form
->>>>>>> 40bbb99ac361800897661d33f9f4a3aec0f5d4f3
+
