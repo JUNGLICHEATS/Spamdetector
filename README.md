@@ -210,7 +210,7 @@ This project is developed by:
 |---------------|---------------------------------------------|-------------------------------|
 | Rounak Jha    | [@devron04](https://github.com/devron04)   | ML Model, Frontend UI          |
 | Jitendra Gupta| [@JUNGLICHEATS](https://github.com/JUNGLICHEATS) | Backend APIs, Deployment |
-| Shivesh Shukla| [@Shivesh-1999](https://github.com/Shivesh-1999) | Rule System, UI Debugging|
+| Shivesh Shukla| [@shweatshukla](https://github.com/shweatshukla) | Rule System, UI Debugging|
 
 </div>
 
