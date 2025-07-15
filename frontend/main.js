@@ -1,6 +1,10 @@
 // Global variables
 let isLoading = false;
-const API_BASE_URL = window.location.hostname === 'localhost' ? 'http://localhost:8000' : '';
+// const API_BASE_URL = window.location.hostname === 'localhost' ? 'http://localhost:8000' : '';
+const API_BASE_URL = window.location.hostname === 'localhost'
+  ? 'http://localhost:8000'
+  : 'https://your-backend-name.onrender.com';
+
 
 // DOM Content Loaded Event
 document.addEventListener('DOMContentLoaded', function() {
